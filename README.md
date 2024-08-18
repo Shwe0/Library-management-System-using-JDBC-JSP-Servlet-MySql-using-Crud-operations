@@ -117,10 +117,25 @@ public class AddBookServlet extends HttpServlet {
 }
 7. Deploy and Test
 Deploy on Tomcat: Export your project as a WAR file and deploy it on Tomcat.
-Test the Application: Test the various CRUD operations by interacting with the JSP pages.
+Test the Application: Test the various CRUD operations by interacting with the JSP page.
+
 8. Enhancements
 User Authentication: Add login and registration features.
 Advanced Search: Implement search functionality for books and members.
 Transaction Management: Implement issue and return book features.
 9. Conclusion
 This basic framework provides a starting point. You can extend this application by adding more features and improving the design as needed.
+OUTPUT:
+![bookcreate](https://github.com/user-attachments/assets/09048c5b-5175-49ee-8d72-a1ddced73db2)
+![bookcreateresponse](https://github.com/user-attachments/assets/6a7f2228-243f-4e6a-8504-8a18166a5fb7)
+![bdelete](https://github.com/user-attachments/assets/43750a87-2fce-45e5-a94c-f914518b45e9)
+![bdeleteresp1](https://github.com/user-attachments/assets/a9582ae0-c494-467d-b373-79e9b69a507f)
+![bdeleteresp2](https://github.com/user-attachments/assets/2ab10843-dca5-43ef-8c0c-b4352f836a5c)
+![Bupdate](https://github.com/user-attachments/assets/e624a43e-73c7-40d3-ab7c-4af912f5fd33)
+![Breadall](https://github.com/user-attachments/assets/7837dbca-c615-4bd0-b771-d4c07a63ed91)
+
+
+
+
+
+
